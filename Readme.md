@@ -1,3 +1,3 @@
 # Learning C++
 
-![Yo, Dawg](https://github.com/keithpitt/learning-c-plus-plus/blob/master/image.jpeg?raw=true)
+![Yo, Dawg](https://github.com/keithpitt/learning-cpp/blob/master/image.jpeg?raw=true)
